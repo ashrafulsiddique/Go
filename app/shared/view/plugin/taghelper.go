@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"log"
 
-	"github.com/shamimiceewu025/go/app/shared/view"
+	"github.com/ashrafulsiddique/Go/app/shared/view"
 )
 
 // TagHelper returns a template.FuncMap
