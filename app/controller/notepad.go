@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/shamimiceewu025/go/app/model"
-	"github.com/shamimiceewu025/go/app/shared/session"
-	"github.com/shamimiceewu025/go/app/shared/view"
+	"github.com/ashrafulsiddique/Go/app/model"
+	"github.com/ashrafulsiddique/Go/app/shared/session"
+	"github.com/ashrafulsiddique/Go/app/shared/view"
 
 	"github.com/gorilla/context"
 	"github.com/josephspurrier/csrfbanana"
