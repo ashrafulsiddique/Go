@@ -3,8 +3,8 @@ package controller
 import (
 	"net/http"
 
-	"github.com/shamimiceewu025/go/app/shared/session"
-	"github.com/shamimiceewu025/go/app/shared/view"
+	"github.com/ashrafulsiddique/Go/app/shared/session"
+	"github.com/ashrafulsiddique/Go/app/shared/view"
 )
 
 // IndexGET displays the home page
