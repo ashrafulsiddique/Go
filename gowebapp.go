@@ -6,15 +6,15 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/shamimiceewu025/go/app/route"
-	"github.com/shamimiceewu025/go/app/shared/database"
-	"github.com/shamimiceewu025/go/app/shared/email"
-	"github.com/shamimiceewu025/go/app/shared/jsonconfig"
-	"github.com/shamimiceewu025/go/app/shared/recaptcha"
-	"github.com/shamimiceewu025/go/app/shared/server"
-	"github.com/shamimiceewu025/go/app/shared/session"
-	"github.com/shamimiceewu025/go/app/shared/view"
-	"github.com/shamimiceewu025/go/app/shared/view/plugin"
+	"github.com/ashrafulsiddique/Go/app/route"
+	"github.com/ashrafulsiddique/Go/app/shared/database"
+	"github.com/ashrafulsiddique/Go/app/shared/email"
+	"github.com/ashrafulsiddique/Go/app/shared/jsonconfig"
+	"github.com/ashrafulsiddique/Go/app/shared/recaptcha"
+	"github.com/ashrafulsiddique/Go/app/shared/server"
+	"github.com/ashrafulsiddique/Go/app/shared/session"
+	"github.com/ashrafulsiddique/Go/app/shared/view"
+	"github.com/ashrafulsiddique/Go/app/shared/view/plugin"
 )
 
 // *****************************************************************************
